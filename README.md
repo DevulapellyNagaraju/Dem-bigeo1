@@ -31,6 +31,8 @@
 #### 5. Install Dependencies and Start the Frontend
 - Open a **new terminal** in **VS Code** and run:  
   ```sh
+  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
   npm install
   ```
 - You may see warnings like:  
