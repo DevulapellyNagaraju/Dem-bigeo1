@@ -52,7 +52,7 @@
 ### Note
 This is a **demo version**. Additional features will be implemented in the future. However, at this stage, further development is not possible. We appreciate your understanding.
 
-And, To create a database manually on a local PostgreSQL instance, use the CREATE DATABASE command.
+And, To manually create a database on a local PostgreSQL instance using the guidance provided in the 'PostgreSQL-Database.pdf' file, execute the **CREATE DATABASE** command.
 
 
 
